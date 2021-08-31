@@ -1,0 +1,56 @@
+
+/* -------- INDEX PAGE -------- */
+
+.main h3,p {
+  text-align: center;
+}
+.main h3{
+  color: red;
+}
+.product-list{
+text-align: center;}
+.product-list>ul{
+  display: inline-table;
+}
+
+
+/* -------- ABOUT PAGE -------- */
+
+.about h2 {
+  color: brown;
+  text-align: center;
+}
+
+/* -------- PRODUCT PAGE -------- */
+.product h2{
+  text-align: center;
+}
+.product{
+  text-align: center;
+  
+}
+.product ol{
+display: inline-table;}
+
+h1{
+  text-align: center;
+}
+.navbar{
+  text-align: center;
+}
+.navbar>ul>li{
+list-style-type: none;
+display: inline-block;
+}
+
+.navbar>ul>li>a{
+text-decoration: none;
+padding: 10px;
+border: 10px;
+border-radius: 10px;
+color: white;
+font-size: 20px;
+background-color: rgb(52, 68, 68);
+margin-left: 20px;
+}
+
